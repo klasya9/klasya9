@@ -1,5 +1,5 @@
 ### Hi developers 👋
-[![Linkedin Badge](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="lasya-kanala-6410661a7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/lasya-kanala-6410661a7?trk=profile-badge">Lasya kanala</a></div>(https://www.linkedin.com/in/lasya-kanala-6410661a7)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/lasya-kanala-6410661a7)](https://www.linkedin.com/in/lasya-kanala-6410661a7)
 [![Website Badge](https://img.shields.io/badge/StackOverflow--yellow)](https://stackoverflow.com/users/16326395/kanala-lasya-)
 
 I'm
