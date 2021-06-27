@@ -1,6 +1,7 @@
 ### Hi developers 👋
-[![Linkedin Badge](https://img.shields.io/badge/-lasya-kanala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lasya-kanala-6410661a7)](https://www.linkedin.com/in/lasya-kanala-6410661a7)
+[![Linkedin Badge](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="lasya-kanala-6410661a7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/lasya-kanala-6410661a7?trk=profile-badge">Lasya kanala</a></div>(https://www.linkedin.com/in/lasya-kanala-6410661a7)
 [![Website Badge](https://img.shields.io/badge/StackOverflow--yellow)](https://stackoverflow.com/users/16326395/kanala-lasya-)
+
 I'm
 Full Stack developer
 I love designing things. so, I choose to program, develop and design. Technology is enormous I've been lucky to learn and develop and work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, java), design(prototyping, wireframes in ux), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(Azure),database(MongoDB,Mysql).
