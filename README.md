@@ -6,6 +6,7 @@
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white=https://www.hackerrank.com/lasya_19bce7566)](https://www.hackerrank.com/lasya_19bce7566)
 
 Hi, I'm Lasya Kanala, a passionate Full-Stack developer and a technical enthusiast.
+
 The depths of technology are huge and gigantic but extremely marvelous, spreading its wings all across the world. 
 Learning technologies, developing, and designing makes me feel my job overwhelming. I've been lucky to learn, code and develop alongside some talented teams and a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, java), design(prototyping, wireframes in ux), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(Azure),database(MongoDB,Mysql).
 
