@@ -1,5 +1,4 @@
 ### Hi developers 👋
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/lasya-kanala-6410661a7)](https://www.linkedin.com/in/lasya-kanala-6410661a7)
 [![Linkedin Badge](https://img.shields.io/badge/-Lasya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lasya-kanala-6410661a7)](https://www.linkedin.com/in/lasya-kanala-6410661a7)
 [![Website Badge](https://img.shields.io/badge/StackOverflow--yellow)](https://stackoverflow.com/users/16326395/kanala-lasya-)
 [![Twitter Badge](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white=https://twitter.com/BriannaMildRed)](https://twitter.com/BriannaMildRed)
