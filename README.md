@@ -7,7 +7,7 @@
 Hi, I'm Lasya Kanala, a passionate Full-Stack developer and a technology enthusiast.
 
 The depths of technology are huge and marvelous, advancing the world to be a better place where we could innovate and revolutionize. 
-          Learning technologies, developing, and designing turned into a passion, made me feel my work overwhelming. I've been lucky to learn, code and develop alongside some talented teams and a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, java), design(prototyping, wireframes in UX), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(Azure),database(MongoDB,Mysql).
+          Learning technologies, developing, and designing turned into a passion, It made me feel my work overwhelming and productive. I've been lucky to learn, code and develop alongside some talented teams and a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, java), design(prototyping, wireframes in UX), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(Azure),database(MongoDB,Mysql).
 
 📫 You can reach me:  <a href="mailto:briannamildred@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
