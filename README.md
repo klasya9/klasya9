@@ -1,6 +1,6 @@
 ### Hi developers 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Lasya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lasya-kanala-6410661a7)](https://www.linkedin.com/in/lasya-kanala-6410661a7)
-[![Website Badge](https://img.shields.io/badge/StackOverflow--yellow)](https://stackoverflow.com/users/16326395/kanala-lasya-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Lasya-yellow)](https://stackoverflow.com/users/16326395/kanala-lasya-)
 [![Twitter Badge](https://img.shields.io/badge/-Lasya-blue?style=flat-square&logo=Twitter&logoColor=white=https://twitter.com/BriannaMildRed)](https://twitter.com/BriannaMildRed)
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white=https://www.hackerrank.com/lasya_19bce7566)](https://www.hackerrank.com/lasya_19bce7566)
 
