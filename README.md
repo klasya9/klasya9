@@ -4,10 +4,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Lasya-blue?style=flat-square&logo=Twitter&logoColor=white=https://twitter.com/BriannaMildRed)](https://twitter.com/BriannaMildRed)
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white=https://www.hackerrank.com/lasya_19bce7566)](https://www.hackerrank.com/lasya_19bce7566)
 
-Hi, I'm Lasya Kanala, a passionate Full-Stack developer and a technical enthusiast.
+Hi, I'm Lasya Kanala, a passionate Full-Stack developer and a technology enthusiast.
 
 The depths of technology are huge and marvelous, advancing the world to be a better place where we could innovate and revolutionize. 
-          Learning technologies, developing, and designing makes me feel my job overwhelming. I've been lucky to learn, code and develop alongside some talented teams and a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, java), design(prototyping, wireframes in UX), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(Azure),database(MongoDB,Mysql).
+          Learning technologies, developing, and designing turned into a passion, made me feel my work overwhelming. I've been lucky to learn, code and develop alongside some talented teams and a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, java), design(prototyping, wireframes in UX), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(Azure),database(MongoDB,Mysql).
 
 📫 You can reach me:  <a href="mailto:briannamildred@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
