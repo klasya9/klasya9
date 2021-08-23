@@ -4,10 +4,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Lasya-blue?style=flat-square&logo=Twitter&logoColor=white=https://twitter.com/BriannaMildRed)](https://twitter.com/BriannaMildRed)
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white=https://www.hackerrank.com/lasya_19bce7566)](https://www.hackerrank.com/lasya_19bce7566)
 
-Hi, I'm Lasya Kanala, a passionate Full-Stack developer and a technology enthusiast.
+Hi, I'm Lasya Kanala, a passionate technology enthusiast, researcher in visual computing and a Full-Stack developer.
 
-The depths of technology are huge and marvelous, advancing the world to be a better place where we could innovate and revolutionize. 
-          Learning technologies, developing, and designing turned into a passion, It made me feel my work overwhelming and productive. I've been lucky to learn, code and develop alongside some talented teams and a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, java), design(prototyping, wireframes in UX), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(Azure),database(MongoDB,Mysql), CI/CD.
+Once upon a time dreams are the places where we used to create things, but now we breathe it in the reality. Technology has evolved beyond our imagination as depths of sciences are drawn into this marvelous functioning areas of subjects interdisciplainary to each other creating the impossible. 
+          Learning technologies, developing, Researching and designing turned into a passion, It made my work overwhelming and productive. I've been lucky to learn, code and develop alongside some talented teams and a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, java), design(prototyping, wireframes in UX), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(Azure),database(MongoDB,Mysql), CI/CD. I am researcher in visual computing and my areas of interests are argumented reality(AR), Virtual reality (VR), Photogrammetry, machine learning, nueral networks, deep learning in the immersive world.
 
 📫 You can reach me:  <a href="mailto:briannamildred@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
